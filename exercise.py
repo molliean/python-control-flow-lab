@@ -79,7 +79,7 @@ def weather_advice():
     elif is_cold == "no" and is_raining == "no":
         print("Wear light clothing.")
 # Call the function
-# weather_advice()
+weather_advice()
 
 
 
@@ -116,7 +116,7 @@ def calculate_dog_years():
             dog_years = 20 + (dog_age - 2) * 7
         print(f"The dog's age in dog years is {dog_years}.")
 # Call the function
-# calculate_dog_years()
+calculate_dog_years()
 
 
 
@@ -151,7 +151,7 @@ def check_voting_eligibility():
     else:
         print("Invalid entry. Please enter a valid number.")
 # Call the function
-#check_voting_eligibility()
+check_voting_eligibility()
 
 
 # Exercise 1: Vowel or Consonant
@@ -184,7 +184,7 @@ def check_letter():
         print("Invalid entry. Please enter a single alphabetical letter.")
 
 # Call the function
-#check_letter()
+check_letter()
 
 
 
@@ -207,7 +207,7 @@ def print_greeting():
         print("Python is fun!")
 
 # Call the function
-#print_greeting()
+print_greeting()
 
 
 
